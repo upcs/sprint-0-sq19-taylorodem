@@ -19,5 +19,6 @@
   "homepage": "https://github.com/upcs/sprint-0-sq19-taylorodem#readme",
   "dependencies": {
     "jest": "^24.0.0"
-  }
+  },
+  "devDependencies": {}
 }
